@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+sentencepiece
+opencv-python
+pillow
+numpy
+soundfile
+sounddevice
