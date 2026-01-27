@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+accelerate
+sentencepiece
+faiss-cpu
+pandas
+numpy
+scikit-learn
+matplotlib
+gradio
+fastapi
+uvicorn
